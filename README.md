@@ -13,7 +13,7 @@
 
 #### Data & AI
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat-the-badge&logo=pandas&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![sklearn](https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-square&logo=PyTorch&logoColor=white)
 
