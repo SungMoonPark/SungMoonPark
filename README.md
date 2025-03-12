@@ -16,6 +16,7 @@
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![sklearn](https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-square&logo=PyTorch&logoColor=white)
+![langchain](https://img.shields.io/badge/langchian-1C3C3C?style=for-the-square&logo=langchain&logoColor=white)
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=smooo2)](https://solved.ac/smooo2/)
