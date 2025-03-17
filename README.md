@@ -1,4 +1,4 @@
-## SungMoonPark
+## 끊임없이 배우며, 다양한 문제를 해결하고 싶은 개발자
 
 
 #### Backend
@@ -9,6 +9,7 @@
 #### Frontend 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-square&logo=typescript&logoColor=white) 
 
 #### Data & AI
@@ -21,17 +22,3 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=smooo2)](https://solved.ac/smooo2/)
 
-
-<!--
-**SungMoonPark/SungMoonPark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
