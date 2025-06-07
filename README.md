@@ -13,5 +13,6 @@
 ![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![langchain](https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=smooo2)](https://solved.ac/smooo2/)
+##### 1일 1알고리즘을 실천하며, 주어진 문제를 코드로 구현하는 역량을 기르고 있습니다
+https://www.acmicpc.net/user/smooo2
 
