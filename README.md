@@ -15,7 +15,3 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
-
-
-##### 1일 1알고리즘을 실천하며, 주어진 문제를 코드로 구현하는 역량을 기르고 있습니다
-https://www.acmicpc.net/user/smooo2
